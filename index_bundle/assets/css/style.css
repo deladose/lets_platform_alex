@@ -5,12 +5,16 @@
 
 body{
 	font-family: "CompagnonLight";
+  
 }
 
 .container{
+  border: solid red 10px;
 
 }
 
 .item{
+  border: solid blue 3px;
+  width: 0.1vw;
 	
 }
