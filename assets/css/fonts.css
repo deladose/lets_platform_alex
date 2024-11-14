@@ -1,7 +1,19 @@
 @font-face {
-  font-family: GT America Expanded;
-  src:url(../fonts/CGT-America-Expanded-Medium.woff) format("woff"),
-      url(../fonts/GT-America-Expanded-Bold.woff) format("woff");
-  
+  font-family: CompagnonLight;
+  src:url(../fonts/Compagnon-Light.woff) format("woff"),
+      url(../fonts/Compagnon-Light.woff2) format("woff2");
+  font-weight:200;
   font-style:normal;
+}
+
+@font-face {
+  font-family: "GT America Expanded Bold";
+  src: url(../fonts/GT-America-Expanded-Bold.woff) format("woff");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "GT America Expanded Medium";
+  src: url(../fonts/GT-America-Expanded-Medium.woff) format("woff");
+  font-weight: medium;
 }
