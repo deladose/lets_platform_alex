@@ -24,6 +24,13 @@ h2{
   line-height: 2.;
   
 }
+
+.platzhalter{
+font-family: GT America Expanded Bold;
+  font-size: 20px;
+  color: white;
+
+}
 .container1 {
 	
 	width: 100%;
@@ -71,6 +78,7 @@ h2{
 
 .item1{
   width: 100%;
+
 }
 
 .item2{  
@@ -93,7 +101,7 @@ width: 100%;
 img{
   filter: invert(100%) grayscale(100%) hue-rotate(40deg) contrast(100%) brightness(100%) blur(5px); 
   opacity: 0.6; 
-  transition: filter 0.7s ease, opacity 0.7s ease; 
+  transition: filter 0.7s ease, opacity 0.7s ease;
 }
 
 img:hover {
